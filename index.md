@@ -14,7 +14,7 @@
 
 <!-- STYLING TEXT: bold, italic, bold+italic, strikethrough -->
 Hi! I'm **Arpita Pandey**, a _Mathematics and Computer Science Student_ at ***UC San
-Diego***. I enjoy ~~procrastinating~~ building things that solve real problems.I'm
+Diego***. I enjoy ~~procrastinating~~ building things that solve real problems. I'm
 very involved on campus as the VP External of Women in Computing at UCSD and a
 researcher at the Programming Systems Lab! This summer I'll be interning at Versana
 where I'm really excited to work on their syndicated loan platform! In my free time
@@ -76,10 +76,6 @@ def greet(name):
 
 ---
 
-
-
-
----
 
 ## Contact
 <!-- RELATIVE LINK to an image file, encoded as a regular link (not an image) -->
